@@ -1,0 +1,12 @@
+h1{
+    color:maroon;
+}
+.post{
+    background-color:antiquewhite;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+.user{
+ font-style: italic;
+}
